@@ -1,0 +1,15 @@
+{
+    "short_name": "NFT Check-In",
+    "name": "Check-in to events with your NFTs",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "48x48",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
